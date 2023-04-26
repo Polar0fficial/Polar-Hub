@@ -11,4 +11,12 @@ Script's Success May Vairy -- (Script Will Always Work If Listings Above Above A
 
 Update Logs:
 
-1.00.
+1.00.7dc624f --
+• Release
+
+
+1.10.924c89.f --
+• Minor Bug Fixes
+• Updated Script
+
+1.20.87f378.d
