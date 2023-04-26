@@ -1,1 +1,8 @@
-game.Players.ecdvscdv.leaderstats.Time.Value = 99999
+local player = game.Players.LocalPlayer
+local leaderstats = player:FindFirstChild("leaderstats")
+if leaderstats then
+    local time = leaderstats:FindFirstChild("Time")
+    if time then
+        time.Value = 99999
+    end
+end
