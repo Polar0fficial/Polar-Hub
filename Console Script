@@ -1,8 +1,11 @@
-local player = game.Players.LocalPlayer
-local leaderstats = player:FindFirstChild("leaderstats")
-if leaderstats then
-    local time = leaderstats:FindFirstChild("Time")
-    if time then
-        time.Value = 99999
+while true do
+    local player = game.Players.LocalPlayer
+    local leaderstats = player:FindFirstChild("leaderstats")
+    if leaderstats then
+        local time = leaderstats:FindFirstChild("Time")
+        if time then
+            time.Value = 99999
+        end
     end
+    wait(1)
 end
