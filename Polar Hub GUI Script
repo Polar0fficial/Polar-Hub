@@ -26,6 +26,6 @@ end)
 local miscScripts = Tab:NewSection("Miscellaneous")
 
 -- MISC SCRIPTS
-MainSection:NewButton("Time Modifier", "Sets The In-Game "Time" Leaderstat To 99,999 -- (May Reset After Leaderstat Is Updated)", function()
+MainSection:NewButton("Time Modifier", "Sets The In-Game 'Time' Leaderstat To 99,999 -- (May Reset After Leaderstat Is Updated)", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Roblox-Add-Time-Script/main/conScript%20Loader", true))()
 end)
