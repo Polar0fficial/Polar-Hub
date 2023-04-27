@@ -20,4 +20,4 @@ Update Logs:
 • Updated Script
 
 1.20.87f378.d
-• Fixed WalkSpeed & JumpPower Modifier Not Opening After Spam-Closed
+• Fixed WalkSpeed & JumpPower Modifier(s) Not Opening After Spam-Closed
