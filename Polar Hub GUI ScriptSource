@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Polar's Hub", "Ocean")
+local Window = Library.CreateLib("Polar Hub", "Ocean")
 
 -- MAIN TAB
 local main = Window:NewTab("Main")
