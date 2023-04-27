@@ -1,0 +1,37 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Polar's Hub", "Ocean")
+
+-- MAIN TAB
+local main = Window:NewTab("Main")
+
+-- MAIN SCRIPTS -- SECTION
+local mainScripts = main:NewSection("Main Scripts")
+
+-- MAIN SCRIPTS
+mainScripts:NewButton("WalkSpeed & JumpPower Modifier", "Opens A GUI, Which Allows You to Customly Modify Your WalkSpeed & JumpPower In-Game", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/Modifiers/WalkSpeed%20%26%20WalkPower%20GUI/GUI%20Loader", true))()
+end)
+
+
+-- MOBILE SCRIPTS -- SECTION
+local mobileScripts = main:NewSection("Mobile Scripts")
+
+
+-- MOBILE SCRIPTS
+mobileScripts:NewButton("Keyboard Script", "Creates A Digital Keyboard On The User's Screen -- (Can Be Moved)", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+
+
+-- MISC TAB
+local misc = Window:NewTab("Misc")
+
+
+-- MISCELLANEOUS -- SECTION
+local miscScripts = misc:NewSection("Miscellaneous")
+
+-- MISC SCRIPTS
+miscScripts:NewButton("Time Modifier", "Sets The In-Game 'Time' Leaderstat To 99,999 -- (May Reset After Leaderstat Is Updated)", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Roblox-Add-Time-Script/main/conScript%20Loader", true))()
+end)
