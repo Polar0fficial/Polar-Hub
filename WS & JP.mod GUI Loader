@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/WS%20%26%20JP.mod%20GUI", true))()
