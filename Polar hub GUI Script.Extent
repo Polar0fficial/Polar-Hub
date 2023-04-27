@@ -87,3 +87,4 @@ miscScripts:NewButton("Time Modifier", "Sets The In-Game 'Time' Leaderstat To 99
     end
     wait(1)
 end
+end)
