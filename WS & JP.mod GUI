@@ -1,1 +1,1 @@
-temp.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/WalkSpeed%20%26%20JumpPower%20Modifier", true))()
