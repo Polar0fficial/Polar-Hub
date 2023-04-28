@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/Miscellaneous%20Tab/Leaderstat%20Modifiers/Time%20Modifier/Console%20Script", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Polar0fficial/Polar-Hub/main/Miscellaneous%20Tab/Leaderstat%20Modifiers/Time%20Modifier/Console%20Script", true))()
