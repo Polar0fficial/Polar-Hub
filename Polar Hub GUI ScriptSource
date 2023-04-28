@@ -10,7 +10,7 @@ local mainScripts = main:NewSection("Main Scripts")
 
 -- MAIN SCRIPTS
 mainScripts:NewButton("WalkSpeed & JumpPower Modifier", "Opens A GUI, Which Allows You to Customly Modify Your WalkSpeed & JumpPower In-Game", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/Main%20Tab/Modifiers/WalkSpeed%20%26%20JumpPower%20GUI/functionScript.Loader", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Polar0fficial/Polar-Hub/main/Main%20Tab/Main%20Script%20Section/WalkSpeed%20%26%20JumpPower%20GUI/functionScript.Loader", true))()
 end)
 
 
@@ -19,7 +19,7 @@ local mobileScripts = main:NewSection("Mobile Scripts")
 
 -- MOBILE SCRIPTS
 mobileScripts:NewButton("Keyboard Script", "Creates A Digital Keyboard On The User's Screen -- (Can Be Moved)", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Polar0fficial/Polar-Hub/main/Main%20Tab/Mobile%20Script%20Section/Keyboard%20Script/functionScript.Loader", true))()
 end)
 
 
@@ -34,7 +34,7 @@ local remoteSpyScripts = remoteSpy:NewSection("ServerSide")
 
 -- REMOTESPY SCRIPTS
 remoteSpyScripts:NewButton("SimplySpy", "Visit The Official SimplySpy Website For More Information -- https://robloxscripts.com/simplespy-v3-simple-remote-spy/", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/RemoteSpy%20Tab/SimplySpy/functionScript.Loader", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Polar0fficial/Polar-Hub/main/RemoteSpy%20Tab/SimplySpy/functionScript.Loader", true))()
 end)
 
 
@@ -49,5 +49,5 @@ local miscScripts = misc:NewSection("Miscellaneous")
 
 -- MISC SCRIPTS
 miscScripts:NewButton("Time Modifier", "Sets The In-Game 'Time' Leaderstat To 99,999 -- (May Reset After Leaderstat Is Updated)", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/Miscellaneous%20Tab/Leaderstat%20Modifiers/Time%20Modifier/conScript%20Loader", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Polar0fficial/Polar-Hub/main/Miscellaneous%20Tab/Leaderstat%20Modifiers/Time%20Modifier/conScript%20Loader", true))()
 end)
