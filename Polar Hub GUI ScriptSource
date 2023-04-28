@@ -23,6 +23,22 @@ mobileScripts:NewButton("Keyboard Script", "Creates A Digital Keyboard On The Us
 end)
 
 
+
+-- REMOTESPY TAB
+local remoteSpy = Window:NewTab("RemoteSpy")
+
+
+-- REMOTESPY -- SECTION
+local remoteSpyScripts = remoteSpy:NewSection("ServerSide")
+
+
+-- REMOTESPY SCRIPTS
+remoteSpyScripts:NewButton("SimplySpy", "Visit The Official SimplySpy Website For More Information -- https://robloxscripts.com/simplespy-v3-simple-remote-spy/", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/RemoteSpy%20Tab/SimplySpy/functionScript.Loader", true))()
+end)
+
+
+
 -- MISC TAB
 local misc = Window:NewTab("Misc.")
 
