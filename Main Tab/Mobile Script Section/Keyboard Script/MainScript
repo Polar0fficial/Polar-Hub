@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Polar0fficial/Polar-Hub/main/Main%20Tab/Mobile%20Script%20Section/Keyboard%20Script/functionScript.Loader", true))()
