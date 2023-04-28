@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Polar0fficial/Polar-Hub/main/Main%20Tab/Main%20Script%20Section/WalkSpeed%20%26%20JumpPower%20GUI/functionScript.Loader", true))()
