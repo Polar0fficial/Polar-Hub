@@ -19,5 +19,5 @@ Update Logs:
 • Minor Bug Fixes
 • Updated Script
 
-1.20.87f378.d
+1.20.87f378.d --
 • Fixed WalkSpeed & JumpPower Modifier(s) Not Opening After Spam-Closed
