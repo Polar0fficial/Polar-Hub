@@ -10,7 +10,7 @@ local mainScripts = main:NewSection("Main Scripts")
 
 -- MAIN SCRIPTS
 mainScripts:NewButton("WalkSpeed & JumpPower Modifier", "Opens A GUI, Which Allows You to Customly Modify Your WalkSpeed & JumpPower In-Game", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/Modifiers/WalkSpeed%20%26%20WalkPower%20GUI/GUI%20Loader", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Godfly123456/Polar-Hub/main/Main%20Tab/Modifiers/WalkSpeed%20%26%20JumpPower%20GUI/GUI%20Loader", true))()
 end)
 
 
