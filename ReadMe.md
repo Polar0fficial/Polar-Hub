@@ -12,7 +12,7 @@ Script's Success May Vairy -- (Script Will Always Work If Listings Above Above A
 Coming Soon:
 
 • Fly GUI
-• Noclip GUI
+- Noclip GUI
 
 Update Logs:
 
