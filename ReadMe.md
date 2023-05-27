@@ -11,8 +11,7 @@ Script's Success May Vairy -- (Script Will Always Work If Listings Above Above A
 
 Coming Soon:
 
-• Fly GUI
-- Noclip GUI
+• Fly GUI - Noclip GUI
 
 Update Logs:
 
