@@ -16,7 +16,7 @@ Coming Soon:
 Update Logs:
 
 1.00.7dc624f --
-• Release
+• Public Release
 
 1.10.924c89.f --
 • Minor Bug Fixes
