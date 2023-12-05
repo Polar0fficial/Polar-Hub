@@ -5,7 +5,7 @@ Information:
 Script Version:
 1.40.28da70d
 
-| Only Use Script Provided In "Polar Hub GUI"
+| Only Use Script Provided In "Polar Hub GUI MainScript"
 | Leaderstat Time Modifier Script Will Only Work In Games That Have A Leaderstat Named "Time"
 Script's Success May Vairy -- (Leaderstat Time Modifier Script Will Always Work If Listings Above Above Are True - Script Can Work As A Visual Effect, Or As A Digitally-Tangable System Depending On How The Game Is Coded) |
 
